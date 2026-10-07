@@ -1,0 +1,15 @@
+{
+    "Timestamp":  "2026-10-07 09:34:55",
+    "Findings":  [
+                     {
+                         "Status":  "Flagged as Ultra Vires",
+                         "Domain":  "Remedy \u0026 Rehabilitation",
+                         "ViolationType":  "Continuing Tort / Denial of Justice",
+                         "ApplicableNorm":  "UDHR Art. 8, VCLT Art. 27"
+                     }
+                 ],
+    "HierarchyOverride":  "International Treaties \u0026 Peremptory Norms (Jus Cogens) \u003e Domestic Law",
+    "Phase":  "Phase 4",
+    "Status":  "Venice Commission opinions deprecated as advisory. VCLT Arts 26, 27, 53 enforced.",
+    "CaseID":  "CASE-MACHERET-1997-2026"
+}
